@@ -19,8 +19,8 @@ footer:
 # Author 配置博主信息
 author: 'eJoy Education'
 nickname: 'eJoy Education'
-bio: 'eJoy Education 忆乐教育'
-avatar: '/assets/img/profile.png'
+bio: '忆乐教育AIR（Adaptability & IdeaSynthesis & RapidLearning）'
+avatar: '/assets/img/slide.png'
 
 # Search
 search: true
