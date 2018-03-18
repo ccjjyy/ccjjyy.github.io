@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: 'eJoy Education'
-description: 'eJoy Education'
-keyword: 'eJoy Education'
+description: 'Multipotentialite AIR STEM'
+keyword: 'eJoy Education, Multipotentialite, AIR, STEM, 忆乐教育, 多相潜能者, AIR能力, STEM教育'
 url: 'https://ccjjyy.github.io' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -14,12 +14,12 @@ nav:
 
 # Footer
 footer:
-  since: 2018
+  since: 2017-2018
 
 # Author 配置博主信息
 author: 'eJoy Education'
-nickname: 'eJoy Education'
-bio: '忆乐教育AIR（Adaptability & IdeaSynthesis & RapidLearning）'
+nickname: '小忆'
+bio: '忆乐教育STEM AIR（Adaptability & IdeaSynthesis & RapidLearning）'
 avatar: '/assets/img/slide2.jpg'
 
 # Search
@@ -31,7 +31,7 @@ nightMode: true
 # Comments 评论功能
 #   default_hidden：是否默认隐藏评论。若是则需要点击一按钮后才显示。 by Ray-Eldath
 comments:
-  default_hidden: true
+  default_hidden: false
   disqus: false
   disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
@@ -53,21 +53,18 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+social-share-items: ['wechat', 'qq', 'weibo', 'douban', 'jianshu']
 
 # theme color 主题皮肤
-theme-color: 'default'  # pink or default
+theme-color: 'pink'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
-postPatterns: 'circuitBoard'
+postPatterns: 'food'
 
 # SNS settings 配置社交网站url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'mailto:ray.eldath@aol.com'
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  email: 'mailto:c153336897@163.com'
+  github: '//github.com/ccjjyy'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
