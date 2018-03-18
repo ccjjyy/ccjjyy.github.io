@@ -53,10 +53,10 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'qq', 'weibo', 'douban', 'jianshu']
+social-share-items: ['wechat', 'qq', 'weibo', 'jianshu']
 
 # theme color 主题皮肤
-theme-color: 'pink'  # pink or default
+theme-color: 'default'  # pink or default
 
 # Post header background patterns (when the post no cover): circuitBoard, overlappingCircles, food, glamorous, ticTacToe, seaOfClouds
 postPatterns: 'food'
