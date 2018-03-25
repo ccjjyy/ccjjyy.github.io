@@ -23,4 +23,5 @@ Throughout this guide there are a number of small-but-handy pieces of informatio
 
 ### Video Test
 
+[video](http://v.youku.com/v_show/id_XMzQ3MDUwMzkyMA==.html?spm=a2h0j.11185381.listitem_page1.5~A&f=51603349&from=y1.2-3.4.1)
 <iframe type="text/html" width="100%" height="385" src="http://v.youku.com/v_show/id_XMzQ3MDUwMzkyMA==.html?spm=a2h0j.11185381.listitem_page1.5~A&f=51603349&from=y1.2-3.4.1" frameborder="0"></iframe>
